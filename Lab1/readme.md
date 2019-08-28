@@ -5,7 +5,7 @@ Information Systems are a large part of today's society. These Information Syste
 
 ### Github
 Client-Server Architecture
-In Github, you are experiencing a Client-Server Architecture because you as a client are available to use Githubs services and resources while Github acts as the server, providing those services and resources to you and communicating you with other clients using that same server.
+In Github: you are experiencing a Client-Server Architecture because you as a client are available to use Githubs services and resources while Github acts as the server, providing those services and resources to you and communicating you with other clients using that same server.
 
 Cloud Computing
 ### Conclusion
