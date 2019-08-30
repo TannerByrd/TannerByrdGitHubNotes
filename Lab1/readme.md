@@ -8,5 +8,5 @@ My car is a great example of an Information System. It contains Hardware, Softwa
 Client-Server Architecture
 In Github: you are experiencing a Client-Server Architecture because you as a client are available to use Githubs services and resources while Github acts as the server, providing those services and resources to you and communicating you with other clients using that same server.
 
-Cloud Computing
+Cloud Computing: Github is considered Cloud Computing because Github acts as an onlice server, providing resources, storage and different features on their website or server for you to use. It is a Cloud enviroment, meaning istead of having to gather the software, finding space for that Software and different features they are provided to you online by Github themselves. That makes you the Client and Github the server. I use other Cloud Computing enviroments such as Cloud storage on my Xbox. This provides me a certain amount of storage for my video games online so I don't have to go out and buy another hardrive or flashdrive when I run out of space on the ones I already have. That extra storage is online. 
 ### Conclusion
