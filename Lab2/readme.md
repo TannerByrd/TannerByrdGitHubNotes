@@ -1,5 +1,5 @@
 # Executive Summary 
 ### Hardware
-**Hard Drives and Memory
+**Hard Drives and Memory**
 # Conclusion
 
