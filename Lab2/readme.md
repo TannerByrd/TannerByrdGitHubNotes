@@ -5,6 +5,7 @@ Hard Drives and Memory - The differences between Latency and Tranfer rates withi
 SSD versus traditional Hard Drives - Solid State Hard Drives are different from Traditional Hard Drives because while Traditonal Drives do have disks to store their data, Solid State Drives do not. Solid State Drives also do not have heads, platters or magnetic surfaces so that they do not fail as often as Traditional Drives, due to physical errors. It is said that data is read at the speed of light with Solid State Drives, whereas Traditional Drives need to start spinning for the head to read the platter or disk within the drive. This takes more time and proves Solid State Drives to be more efficient. Unlike Traditional Drives, Solid State Drives do not cause delay in performance when it comes to fragmenting data.
 
 Why increased RAM makes a computer faster - 
+
 Difference between 64 and 32 bit data paths - 
 # Conclusion
 
