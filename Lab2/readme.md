@@ -28,7 +28,7 @@ The purpose of IEEE today is to provide a growing knowledge base and ultimately 
 ### Data Representation
 **Difference between decimal, binary and hexadecimal numbers** - 
 The difference between these three numbers is that the decimal numbers use a base-10 number system, the binary numbers use a base-2 number system and the hexadecimal numbers use a base-16 number system. 
-### Hexadecimal Color Representation
+### Hexadecimal Color Representation - ff016b
 ff016b is a representation of the hexadecimal system because it is using hexadecimal format to create a certain combination color that uses a wide variety of different individual colors and very specific amounts of each one of those colors which result in the unique color ff016b.
 
 # Conclusion 
