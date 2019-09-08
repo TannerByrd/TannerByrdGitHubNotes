@@ -19,6 +19,8 @@ The control unit and the ALU within a CPU interact because the Control Unit reci
 At a self checkout register in a grocery store the register uses CPU, Input and output. With input, the register is able to scan your items and take your form of payment. Maybe it also has a touchscreen for you to interact with to choose between different forms of payment. With Output the register diplays how much your total is or may tell you through an audio device. With CPU the register is able to process the payment total of your order, adding each item of your purchase into a total knowing what the price is for each item that comes through and is scanned. All together these pieces make up the majority of the Hardware of the register or self checkout. 
 ### Logic Gates and Circuits 
 A truth table is what describes the results of a certain number of inputs and outputs to represent the voltage values of a digital logic circuit. These representations are displayed with true or false or 0's and 1's. A NAND gate and an AND gate can both have two or more inputs but only one output. They are the exact opposites of eachother. For example, the output for a NAND gate is true only whenever one or more of the inputs are false, but not when all of the inputs are false. however, the output for an AND gate is true only when all of it's inputs are true.
+### IEEE - Ethically Aligned Design
+The purpose of IEEE today is to provide a growing knowledge base and ultimately grow the industry for fields such as computer science, medical science, nanotechnology, robotics, bioengineering, electronic engineering, microtechnology and many more modern technologies that have and will benefit humans.  
 **Difference between 64 and 32 bit data paths** - 
 # Conclusion
 
