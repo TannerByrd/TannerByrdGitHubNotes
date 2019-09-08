@@ -7,8 +7,8 @@ Hard Drives and Memory - The differences between Latency and Tranfer rates withi
 
 SSD versus traditional Hard Drives - Solid State Hard Drives are different from Traditional Hard Drives because while Traditonal Drives do have disks to store their data, Solid State Drives do not. Solid State Drives also do not have heads, platters or magnetic surfaces so that they do not fail as often as Traditional Drives, due to physical errors. It is said that data is read at the speed of light with Solid State Drives, whereas Traditional Drives need to start spinning for the head to read the platter or disk within the drive. This takes more time and proves Solid State Drives to be more efficient. Unlike Traditional Drives, Solid State Drives do not cause delay in performance when it comes to fragmenting data.
 
-Why increased RAM makes a computer faster - Increased RAM makes a computer run faster because it provides more storage for data to travel through, data needs to travel through the RAM first before it can go anywhere else, if there is not enough room on the RAM storage of a computer than that data instead of traveling directly through the RAM then needs to travel back to the Hard Drive where there sis more storage avaiolble. This creates extra work for your computer to do and ultimatley causes it be act more slowly overall. 
+**Why increased RAM makes a computer faster** - Increased RAM makes a computer run faster because it provides more storage for data to travel through, data needs to travel through the RAM first before it can go anywhere else, if there is not enough room on the RAM storage of a computer than that data instead of traveling directly through the RAM then needs to travel back to the Hard Drive where there sis more storage avaiolble. This creates extra work for your computer to do and ultimatley causes it be act more slowly overall. 
 
-Difference between 64 and 32 bit data paths - 
+**Difference between 64 and 32 bit data paths** - 
 # Conclusion
 
