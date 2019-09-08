@@ -13,7 +13,7 @@ Solid State Hard Drives are different from Traditional Hard Drives because while
 **Why increased RAM makes a computer faster** - 
 Increased RAM makes a computer run faster because it provides more storage for data to travel through, data needs to travel through the RAM first before it can go anywhere else, if there is not enough room on the RAM storage of a computer than that data instead of traveling directly through the RAM then needs to travel back to the Hard Drive where there sis more storage avaiolble. This creates extra work for your computer to do and ultimatley causes it be act more slowly overall. 
 
-**Difference between 64 and 32 bit data paths** - 
+**Difference between 64 and 32 bit data paths** - 64 bit data paths can transfer up to 64 bits of data at a time, whereas 32 bit data paths can only transfer half of that at 32 bits of data at a time. It is clear that the 64 bit data paths are faster than the 32 bit data paths. Making it more efficient to utilize a 64 bit data path.  
 ffff
 
 ### ALU and the control unit 
@@ -24,7 +24,7 @@ At a self checkout register in a grocery store the register uses CPU, Input and 
 ### Logic Gates and Circuits 
 A truth table is what describes the results of a certain number of inputs and outputs to represent the voltage values of a digital logic circuit. These representations are displayed with true or false or 0's and 1's. A NAND gate and an AND gate can both have two or more inputs but only one output. They are the exact opposites of eachother. For example, the output for a NAND gate is true only whenever one or more of the inputs are false, but not when all of the inputs are false. however, the output for an AND gate is true only when all of it's inputs are true.
 ### IEEE - Ethically Aligned Design
-The purpose of IEEE today is to provide a growing knowledge base and ultimately grow the industry for fields such as computer science, medical science, nanotechnology, robotics, bioengineering, electronic engineering, microtechnology and many more modern technologies that have and will benefit humans. The importance of ethics in device design is to protect people and their identities. Ethics in device design is essentially not designing devices that will benefit one group or nation, but will benefit all of humans instead. Ethics in device design is also essentially a statement that technology should be used to deliver services that can be trusted and be safe without manipulative or negative effects. Without these ethics, people could lose their data privacy, their human rights, or even their well being if technology was aimed to do so. These ethics are important to have to protect people from technology, and keep people in charge.     
-**Difference between 64 and 32 bit data paths** - 
+The purpose of IEEE today is to provide a growing knowledge base and ultimately grow the industry for fields such as computer science, medical science, nanotechnology, robotics, bioengineering, electronic engineering, microtechnology and many more modern technologies that have and will benefit humans. The importance of ethics in device design is to protect people and their identities. Ethics in device design is essentially not designing devices that will benefit one group or nation, but will benefit all of humans instead. Ethics in device design is also essentially a statement that technology should be used to deliver services that can be trusted and be safe without manipulative or negative effects. Without these ethics, people could lose their data privacy, their human rights, or even their well being if technology was aimed to do so. These ethics are important to have to protect people from technology, and keep people in charge.
+
 # Conclusion
 
