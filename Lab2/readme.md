@@ -13,6 +13,8 @@ Solid State Hard Drives are different from Traditional Hard Drives because while
 **Why increased RAM makes a computer faster** - 
 Increased RAM makes a computer run faster because it provides more storage for data to travel through, data needs to travel through the RAM first before it can go anywhere else, if there is not enough room on the RAM storage of a computer than that data instead of traveling directly through the RAM then needs to travel back to the Hard Drive where there sis more storage avaiolble. This creates extra work for your computer to do and ultimatley causes it be act more slowly overall. 
 
+**Difference between 64 and 32 bit data paths** - 
+ffff
 
 ### ALU and the control unit 
 The control unit and the ALU within a CPU interact because the Control Unit recieves instruction from RAM and further breaks that down for other parts within the CPU. Once the control unit recieves an instruction it tells the ALU what type of operation to perform. The ALU will then produce an output according to the operation.  
