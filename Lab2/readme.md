@@ -26,5 +26,7 @@ A truth table is what describes the results of a certain number of inputs and ou
 The purpose of IEEE today is to provide a growing knowledge base and ultimately grow the industry for fields such as computer science, medical science, nanotechnology, robotics, bioengineering, electronic engineering, microtechnology and many more modern technologies that have and will benefit humans. The importance of ethics in device design is to protect people and their identities. Ethics in device design is essentially not designing devices that will benefit one group or nation, but will benefit all of humans instead. Ethics in device design is also essentially a statement that technology should be used to deliver services that can be trusted and be safe without manipulative or negative effects. Without these ethics, people could lose their data privacy, their human rights, or even their well being if technology was aimed to do so. These ethics are important to have to protect people from technology, and keep people in charge.
 
 ### Data Representation
+**Difference between decimal, binary and hexadecimal numbers** - 
+The difference between these three numbers is that the decimal numbers use a base-10 number system, the binary numbers use a base-2 number system and the hexadecimal numbers use a base-16 number system. 
 # Conclusion
 
