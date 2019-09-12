@@ -27,6 +27,6 @@ Hypervisors create the separation between virtual machines and the physical syst
 Python is said to have a pseudo-code nature because reading in the Python, seems to almost be reading in english which simplifies the entire process of writing in Python and also allows you to focus more on problem solutions rather than focusing more on the language or syntax itself.
 
 **Interpreted language vs Compiled language** -
-A program written in a compiled language is a language that is converted from the native language of a computer, or binary code, making it possible for your computer to understand that language. A program written in an interpreted langauge does not need to be directly converted into a native langauge for your computer to understand. Interpreted langauges may be run directly from the source code of that language and converts that source code into bytecodes which is easily translatable for your computers native langauge, or binary code system to read.  
+A program written in a compiled language is converted from the source code of a langauge into the native language of your computer, making it possible for your computer to understand that language. A program written in an interpreted langauge does not need to be directly converted into a native langauge for your computer to understand. Interpreted langauges may be run directly from the source code of that language and converts that source code into bytecodes which is easily translatable for your computers native langauge, or binary code system to read.  
 
 # Conclusion
