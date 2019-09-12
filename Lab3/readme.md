@@ -32,6 +32,8 @@ A program written in a compiled language is converted from the source code of a 
 # Career Exploration
 
 ### Certifications
+Through CompTia I was able to find an interesting certification test that relates to my current major at Tri-C. The certification test is for a CyberSecurity Analyst and it's at a really fair price too. You can even choose to get a prep bundle option of the certification test to help you prepare for it. Also on ComTia it displays the length of the test and how many questions it has. A passing score would be  750 out of 900 points. 
+
 **Bureau of Labor Statistics** - 
 With this resource I was able to research a career in IT that I have been interested in for awhile. According to the Bureau of Labor Statistics Compputer Support Specialists can earn an average of $53,470 a year. It shows that they also make an average of $25.70 an hour. Level of education required is atleast an associates degree. This resource also gives a description and job growth expectations for the Computer Support Specialist position. It even shows jobs that are similar or related to this specific job. 
 
