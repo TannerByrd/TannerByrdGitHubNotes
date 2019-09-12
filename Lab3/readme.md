@@ -9,7 +9,13 @@ The Roles of software vary, for the various forms it can take. Application Softw
 
 Connecting a whole businesses or organizations data is what ERP software aims to do. ERP software provides a unified pool of data for it's users so they may refer to one place instead of having an unorganized system. ERP Software centralizes data for a whole business or organization. An example of ERP Software would be Microsoft Dynamics.
 
-**Virtualization** -
+**Purpose of Virtualization** -
 
-The purpose of virtualization is to create multiple virtual machines, or virtual computers, on just one server. This saves a lot of money for an organization on excess hardware costs. The ability to run several virtual machines or computers on one server saves a lot of costs by eliminating the need to create more computer systems, physically build them, and ultimately pay for the parts required. They also are said to have better application performance, faster workloads and more efficient server capabilities. Virtual Machines can also be very easily migrated to new servers. Virtualization is different from Cloud Computing because it is self sufficient from hardware, and is emulating that hardware as a piece of software. Cloud Computing is storage of data, software or other resources that are on demand over the internet.  
+The purpose of virtualization is to create multiple virtual machines, or virtual computers, on just one server. This saves a lot of money for an organization on excess hardware costs. The ability to run several virtual machines or computers on one server saves a lot of costs by eliminating the need to create more computer systems, physically build them, and ultimately pay for the parts required. They also are said to have better application performance, faster workloads and more efficient server capabilities. Virtual Machines can also be very easily migrated to new servers. Virtualization is different from Cloud Computing because it is self sufficient from hardware, and is emulating that hardware as a piece of software. Cloud Computing is storage of data, software or other resources that are on demand over the internet. 
+
+#Virtualization
+
+**Problems solved** - 
+Virtualization solves many problems, first of all it allows for the partition of servers or running multiple operating systems on one physical server. Virtulization also solved the problem of needing to buy extra servers to host other vital processes, this saves money on set up, maintenance, cooling and the purchasing of those additional servers.  
+
 # Conclusion
