@@ -21,4 +21,10 @@ Virtualization solves many problems, first of all it allows for the partition of
 **Hypervisors in Virtulization** - 
 Hypervisors create the separation between virtual machines and the physical system resources they need. These Hypervisors divide those system resources for any virtual machines you may use. 
 
+# Python
+
+**Psueudo-code Nature of Python - 
+Python is said to have a pseudo-code nature because reading in the Python, seems to almost be reading in english which simplifies the entire process of writing in Python and also allows you to focus more on problem solutions rather than focusing more on the language or syntax itself.
+
+
 # Conclusion
