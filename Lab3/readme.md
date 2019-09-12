@@ -31,6 +31,10 @@ A program written in a compiled language is converted from the source code of a 
 
 # Career Exploration
 
+### Certifications
+**Bureau of Labor Statistics** - 
+With this resource I was able to research a career in IT that I have been interested in for awhile. According to the Bureau of Labor Statistics Compputer Support Specialists can earn an average of $53,470 a year. It shows that they also make an average of $25.70 an hour. Level of education required is atleast an associates degree. This resource also gives a description and job growth expectations for the Computer Support Specialist position. It even shows jobs that are similar or related to this specific job. 
+
 ### College Central 
 This resource allows me to find different career opprotunities around me and pick to which level of opprotunity I am looking for. Forexamples I can search for part time and full time jobs or internships and even specify what kind. College Central also has different kinds of events that are available for you to browse through and allows you to create a portfolio. There are podcasts you can listen to and resumes you can upload to help you in your search for a new career or internship.
 
