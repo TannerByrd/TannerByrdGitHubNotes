@@ -37,13 +37,16 @@ Through CompTia I was able to find an interesting certification test that relate
 ### Certificates
 Using the Tri-C Programs page I was able to find a post-degree certificate that relates to my current major. The post-degree certificate is for CyberSecurity and is 27 credit hours long. If this certificate was started during the summer it could be completed roughly about a year after it was started which is really interesting. I may consider getting this certificate after I am able to get my associates in CyberSecurity from Tri-C.
 
-### Co-ops/Internships
+### Co-ops / Internships
 To becoome Co-op ready you need to upload your resume at College Central so it can be reviewed and revised. You also need to paricipate in the Co-op orientation process at the Career Center at Tri-C. Then you need to work with an employer specialist to help you find the right Co-op in the roght field. Finally you must sign the Cooperative Education Agreement. The benefits of doing all this and finding a Co-op related to your education is that you will be able to get hands on experience which you can use later in life to help you get a job after you're finished with your education. It looks good on your resume when you get extra experience in real life settings related to your education. It certainly improves the chances of getting a job with your degree once you have it.  
+
+### Industry Associates / Student organizations
+The CyberSecurity Club at Tri-C would be beneficial for me because my major is CyberSecurity. I could network with other students doing the same major as me and gain extra knowledge and experience with CyberSecurity through this club. The purpose of this club is to prepare it's members for something called CCDC or the Collegiate Cyber Defense Competition. This competition puts teams of students against eachother to compete at protecting a small company with 50 or so users and 7-10 servers. It seems like a great way to get real life experience with CyberSecurity outisde of the classroom.  
 
 **Bureau of Labor Statistics** - 
 With this resource I was able to research a career in IT that I have been interested in for awhile. According to the Bureau of Labor Statistics Compputer Support Specialists can earn an average of $53,470 a year. It shows that they also make an average of $25.70 an hour. Level of education required is atleast an associates degree. This resource also gives a description and job growth expectations for the Computer Support Specialist position. It even shows jobs that are similar or related to this specific job. 
 
 ### College Central 
-This resource allows me to find different career opprotunities around me and pick to which level of opprotunity I am looking for. Forexamples I can search for part time and full time jobs or internships and even specify what kind. College Central also has different kinds of events that are available for you to browse through and allows you to create a portfolio. There are podcasts you can listen to and resumes you can upload to help you in your search for a new career or internship.
+This resource allows me to find different career opprotunities around me and pick to which level of opprotunity I am looking for. Forexamples I can search for part time and full time jobs or internships and even specify what kind. College Central also has different kinds of events that are available for you to browse through and allows you to create a portfolio. There are podcasts you can listen to and resumes you can upload for extra advice. College Central is great to help you in your search for a new career or internship.
 
 # Conclusion
