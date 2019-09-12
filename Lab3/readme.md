@@ -34,6 +34,12 @@ A program written in a compiled language is converted from the source code of a 
 ### Certifications
 Through CompTia I was able to find an interesting certification test that relates to my current major at Tri-C. The certification test is for a CyberSecurity Analyst and it's at a really fair price too. You can even choose to get a prep bundle option of the certification test to help you prepare for it. Also on ComTia it displays the length of the test and how many questions it has. A passing score would be  750 out of 900 points. 
 
+### Certificates
+Using the Tri-C Programs page I was able to find a post-degree certificate that relates to my current major. The post-degree certificate is for CyberSecurity and is 27 credit hours long. If this certificate was started during the summer it could be completed roughly about a year after it was started which is really interesting. I may consider getting this certificate after I am able to get my associates in CyberSecurity from Tri-C.
+
+### Co-ops/Internships
+To becoome Co-op ready you need to upload your resume at College Central so it can be reviewed and revised. You also need to paricipate in the Co-op orientation process at the Career Center at Tri-C. Then you need to work with an employer specialist to help you find the right Co-op in the roght field. Finally you must sign the Cooperative Education Agreement. The benefits of doing all this and finding a Co-op related to your education is that you will be able to get hands on experience which you can use later in life to help you get a job after you're finished with your education. It looks good on your resume when you get extra experience in real life settings related to your education. It certainly improves the chances of getting a job with your degree once you have it.  
+
 **Bureau of Labor Statistics** - 
 With this resource I was able to research a career in IT that I have been interested in for awhile. According to the Bureau of Labor Statistics Compputer Support Specialists can earn an average of $53,470 a year. It shows that they also make an average of $25.70 an hour. Level of education required is atleast an associates degree. This resource also gives a description and job growth expectations for the Computer Support Specialist position. It even shows jobs that are similar or related to this specific job. 
 
