@@ -31,6 +31,7 @@ A program written in a compiled language is converted from the source code of a 
 
 # Career Exploration
 
-### College Central - This resource allows me to find different career opprotunities around me and pick to which level of opprotunity I am looking for. Forexamples I can search for part time and full time jobs or internships and even specify what kind. College Central also has different kinds of events that are available for you to browse through and allows you to create a portfolio. There are podcasts you can listen to and resumes you can upload to help you in your search for a new career or internship.
+### College Central 
+This resource allows me to find different career opprotunities around me and pick to which level of opprotunity I am looking for. Forexamples I can search for part time and full time jobs or internships and even specify what kind. College Central also has different kinds of events that are available for you to browse through and allows you to create a portfolio. There are podcasts you can listen to and resumes you can upload to help you in your search for a new career or internship.
 
 # Conclusion
