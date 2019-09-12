@@ -16,6 +16,9 @@ The purpose of virtualization is to create multiple virtual machines, or virtual
 # Virtualization
 
 **Problems solved by Virtualization** - 
-Virtualization solves many problems, first of all it allows for the partition of servers or running multiple operating systems on one physical server. Virtulization also solved the problem of needing to buy extra servers to host other vital processes, this saves money on set up, maintenance, cooling and the purchasing of those additional servers.  
+Virtualization solves many problems, first of all it allows for the partition of servers or running multiple operating systems on one physical server. Virtulization also solved the problem of needing to buy extra servers to host other vital processes, this saves money on set up, maintenance, cooling and the purchasing of those additional servers.
+
+**Hypervisors in Virtulization** - 
+Hypervisors create the separation between virtual machines and the physical system resources they need. These Hypervisors divide those system resources for any virtual machines you may use. 
 
 # Conclusion
