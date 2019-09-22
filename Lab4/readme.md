@@ -17,7 +17,7 @@ Data types consist of strings, integers or floating point numbers. Data types ar
 # Graphics
 
 ### Raster vs. Vector Graphics
-Raster images are images that are made of thousands or millions of tiny pixels, and they lose quality as you zoom in on this type of image. Raster images are best used for unprfossional purposes or for images that will not for any reason need to be zoomed in on. Vector graphics are images made using an advanced form of geometry and these images do not lose quality when being zoomed in on. These images are best used in professional places or for images that are constantly zoomed in on.
+Raster images are images that are made up of thousands or millions of tiny pixels, and they lose quality as you zoom in on this type of image. Raster images are best used for unprfossional purposes or for images that will not for any reason need to be zoomed in on. Vector graphics are images made using an advanced form of geometry and these images do not lose quality when being zoomed in on. These images are best used in professional places or for images that are constantly zoomed in on.
 
 ### Lossless vs. Lossy Compression
 Using lossless or lossy image formats matters because the quality of an image may be much better with lossless compression, however the image file will be larger. Lossless compression makes the image file smaller, but also makes the quality of the image lesser.  
