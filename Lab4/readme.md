@@ -24,3 +24,11 @@ Using lossless or lossy image formats matters because the quality of an image ma
 
 ### File Formats
 JPEG, PNG and GIF image formats all allow an image to be present within their respective files, however GIF's allow animation of it's images and can hold up to 8 bits of data per pixel. JPEG's allow an image files data to be compressed to take up less computer resources but results in a poorer quality image. PNG allows for lossless data compression to result in a higher quality image, this file format also allows for transparency. 
+
+# File Properties 
+
+I. I chose to make my image design a skateboard logo design. The idea came to me from Stereo Skateboards, a skateboard designing company that makes professional skateboards. The image required 8 layers total and a couple different colors to make it look less plain.  
+
+II.
+
+The file size for my image design is 54.8 KB and on my disk it takes up a total of 56.0 KB. This application originally opened with Internet Explorer, however I thought it would be more efficient for it to open with Google Chrome so I changed it. 
