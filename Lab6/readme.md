@@ -28,6 +28,14 @@ at being changed and updated. Layers allow for easy and flxible changes within a
 **Why Secure your Web Browser** - You should secure your web browser so that any important data you have will stay protected and so that hackers cannot read any of your data. It is also important to secure your browser to protect your computer form malware or spyware. 
 
 **Risks of Not Securing a browser** - A risk for web browsing as indicated by the article could be website cookies. Cookies are used by websites to store specific information for that website to access only. If a hacker gained access to a cookie that was used by a website to authenticate a user, then that hacker could potentially gain unauthorized access to that website using that cookie which is a huge privacy problem.   
+
+# Internet Programming 
+
+### World Wide Web Consortium
+
+**Tim Berners-Lee and W3C** Tim Berners-Lee is the creator of the world wide web and leader at W3C. W3C is the organization that sets the international standards for the world wide web
+
+**HTML Standard** - The Web Design and Applications Standard is important because it sets the standards on building or rendering web pages and how these web pages could be internationalied, how they can work on mobile devices, and how these web pages can be accessible to people with disabilities. 
 # Conclusion
 
 
