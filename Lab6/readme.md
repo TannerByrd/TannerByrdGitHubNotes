@@ -12,6 +12,10 @@ An IP address is an internet protocol address and is the numbers assigned to a s
 
 **Client-Server model** - The client-server model applis to TCP/IP because it is very comparitive to this kind of system. Telephones have  unique numbers that can compare to IP addresses and telephones also have port numbers that can be compared to specific exstensions. The client in this scenario would be the computer that is dialing the phone number, or in other words the IP address. The server would be the computer at the end of the line that is recieving the call or that IP adress from the other computer.
 
+**Why layers are important** - Layers are important to changing technology because with layers computer protocols can be much more flexibe 
+at being changed and updated. Layers allow for easy and flxible changes within a protocol, changing technolgoy will no doubt need changing protocols to go along with it. These layers are important to us because technlogy is changing all the time, we need protocols that can keep up with them. 
+
+**Aplication Layer** - The type of applications that run on the application layer would be HTTP, FTP, POP3, SMTP, SNMP
 # Conclusion
 
 
