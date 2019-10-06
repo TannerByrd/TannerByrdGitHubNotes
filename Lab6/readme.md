@@ -16,6 +16,18 @@ An IP address is an internet protocol address and is the numbers assigned to a s
 at being changed and updated. Layers allow for easy and flxible changes within a protocol, changing technolgoy will no doubt need changing protocols to go along with it. These layers are important to us because technlogy is changing all the time, we need protocols that can keep up with them. 
 
 **Aplication Layer** - The type of applications that run on the application layer would be HTTP, FTP, POP3, SMTP, SNMP
+
+# Internet security 
+
+**HTTP** - Hypertext Transfer Protocol or HTTP is the protocol that is used to view web pages on the internet. HTTP supports the client-server model because HTTP acts as the the process that retrieves data for your computer or client to recieve data from a web page, or the server.
+
+**HTTP Secure Protocols** - One of the protocols that secure HTTP uses is HTTPs which is Secure Hypertext transfer protocol. HTTPS uses a system that makes it so any data sent to a web page for example from your client or computer is scrambled into a form that is unreadable so that any hackers cannot read your data. SSL is secure sockets layer. This is a protocol that uses key encryption to protect data. SSL has websites verify their authenticity by asking for a specific certificate. After verification encrtpted data can be shared bewteen you can the web server. TLS or tranport Layer Security is like an uprgarded and more modern version of SSL and does the same thing as SSL but only more efficiently and more modernly. 
+
+# Securing your web browser 
+
+**Why Secure your Web Browser** - You should secure your web browser so that any important data you have will stay protected and so that hackers cannot read any of your data. It is also important to secure your browser to protect your computer form malware or spyware. 
+
+**Risks of Not Securing a browser** - A risk for web browsing as indicated by the article could be website cookies. Cookies are used by websites to store specific information for that website to access only. If a hacker gained access to a cookie that was used by a website to authenticate a user, then that hacker could potentially gain unauthorized access to that website using that cookie which is a huge privacy problem.   
 # Conclusion
 
 
