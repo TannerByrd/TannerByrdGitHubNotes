@@ -6,6 +6,7 @@ An IP address is an internet protocol address and is the numbers assigned to a s
 
 **icann** - icann is an organization that distributes blocks of IP addresses to 5 Regional Internet Registeries that are all around the world. icann contributes to global internet by distributing IP addresses to internet service providers or ISP's and then from there the ISP's distibute the addresses accordingly.
 
+**Client-Server model** - The client-server model applis to TCP/IP because it is very comparitive to this kind of system. Telephones have  unique numbers that can compare to IP addresses and telephones also have port numbers that can be compared to specific exstensions. The client in this scenario would be the computer that is dialing the phone number, or in other words the IP address. The server would be the computer at the end of the line that is recieving the call or that IP adress from the other computer 
 ### TCP/IP
 
 **Responsibility** - The responsibilty of TCP/IP is to define the protocols or rules between how computers and different network send or recieve data with eachother. It is a universal system when it comes to computers and has made compatibility possible for different computers to essentially communicate. 
