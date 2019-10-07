@@ -39,6 +39,24 @@ at being changed and updated. Layers allow for easy and flxible changes within a
 
 **HTML and XML** - XML differes from HTML because it is used to store and transport data and does nothing without a piece of software to go with it. HTML is used to display data, rather than store or transport it. 
 
+# Components of a URL
+
+**Terms and Their Definitions**  
+
+Top Level Domain - .edu is the top level domain as indicated in the end of the Tri-C website: https://www.tri-c.edu/
+This is an education top level domain 
+
+Scheme - https is the scheme name as indicated in the beginning of the Tri-C website https://www.tri-c.edu/ 
+This is a hypertext transfer protocol scheme
+
+Anchor - specific location on a page. These act as bookmarks and direct you to specific locations on the page.
+
+Domain - www.amazon.com  this is the whole domain for the website amazon, it includes the sub domain, second domain and the top level domain.
+
+Default Page - No File Path Provided The file path is a specific path on a page you can tell your broswer to navigate to. For example, if your wanted to load www.amazon.com but wanted to go into the food catergorie, you could type www.amazon.com/food. If you searc for just the domain without a file path following it, you will be directed to the default page of that website. 
+
+parameters - result of search, the parameters are important for a websites server, and are usually at the end of a domain and can look like clear letters or words but in a lot of cases they look random with different numbers and letters.
+
 # Conclusion
 
 
