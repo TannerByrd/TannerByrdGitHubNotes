@@ -33,7 +33,7 @@ An IP address is an internet protocol address and is the numbers assigned to a s
 
 ### World Wide Web Consortium
 
-**Tim Berners-Lee and W3C** Tim Berners-Lee is the creator of the world wide web and leader at W3C. W3C is the organization that sets the international standards for the internet.
+**Tim Berners-Lee and W3C** - Tim Berners-Lee is the creator of the world wide web and leader at W3C. W3C is the organization that sets the international standards for the internet.
 
 **HTML Standard** - The Web Design and Applications Standard is important because it sets the standards on building or rendering web pages and how these web pages should be internationalized or how they can work on mobile devices. 
 
@@ -59,5 +59,5 @@ Parameters - Result of search, the parameters are important for a websites serve
 
 # Conclusion
 
-The truth is you need to know what your doing in life, so why shouldnt that same mentality be applied to the online world that so many people almost require to have in their life. Internet saftey is important and steps should be taken to protect your data and keep it safe. The internet has been growing so much that a new line of IP addresses called IPv6 had to be created just to provide more unique
+The truth is you need to know what your doing in life, so why shouldn't that same mentality be applied to the online world that so many people almost require to have in their life. Internet saftey is important and steps should be taken to protect your data and keep it safe. The internet has been growing so much that a new line of IP addresses called IPv6 had to be created just to provide more unique
 network addresses. If anything the internet will continue to grow so now is a great time to take less risks on the internet and keep your data even more safe from hackers and spyware. Programming will be a very important skill in the future and there may even be a shortage of people in the IT field to fill job request by employers. Learning about the internet, networks, programming, Cybersecurity and the rules of TCP/IP have never seemed more important. 
