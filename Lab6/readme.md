@@ -35,7 +35,7 @@ at being changed and updated. Layers allow for easy and flxible changes within a
 
 **Tim Berners-Lee and W3C** Tim Berners-Lee is the creator of the world wide web and leader at W3C. W3C is the organization that sets the international standards for the world wide web
 
-**HTML Standard** - The Web Design and Applications Standard is important because it sets the standards on building or rendering web pages and how these web pages could be internationalied, how they can work on mobile devices, and how these web pages can be accessible to people with disabilities. 
+**HTML Standard** - The Web Design and Applications Standard is important because it sets the standards on building or rendering web pages and how these web pages could be internationalized or how they can work on mobile devices. 
 # Conclusion
 
 
