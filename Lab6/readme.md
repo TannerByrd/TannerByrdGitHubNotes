@@ -59,8 +59,5 @@ parameters - result of search, the parameters are important for a websites serve
 
 # Conclusion
 
-The truth is you need to know what your doing in life, so why shouldnt that same mentality be applied to the online world that so many people almost require to have in their life. 
-
-
-
-
+The truth is you need to know what your doing in life, so why shouldnt that same mentality be applied to the online world that so many people almost require to have in their life. Internet saftey is important and steps should be taken to protect your data and keep it safe. The internet has been growing so much that a new line of IP addresses called IPv6 had to be created just to provide more unique
+network addresses. If anything the internet will continue to grow so now is a great time to take less risks on the internet and keep your data even more safe from hackers and spyware. Programming will be a very important skill in the future and there may even be a shortage of people in the IT field to fill job request by employers. Learning about the internet, networks, programming, Cybersecurity and the rules of ICP/TP have never seemed more important. 
