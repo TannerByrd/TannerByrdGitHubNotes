@@ -1,4 +1,5 @@
 # Executive Summary 
+The internet is full of all kinds of data and files. TCP/IP is the set of rules for how computers comunicate with each other. Every computer has a unique IP address, and IPv6 addresses are the ones of the future. It is extrmeley important to protect your internet and data. Only visiting secure websites that use HTTP will help with that. Taking less risks like accepting less cookies will be a good way to protect your data too. Different pages are made with different languages or usually a combination. HTML is a very popular website builder and so is CSS. Languages like XML can help in storing data on a page while HTML and CSS can help with the display or looks of the page. The internet is full of different URL's that consist of several different parts, those being domains, schemes, parameters, file paths, anchors top level domains and second domains. URL's have a lot going on, but it's important to know what each part of a URL link means to fully understand what and where your browser may take you to. This will help you to also understand better ways of protecting your data like stated earlier. Web page building is fun and requires a lot of work, but can be diverse with enough computer languages and patience. 
 # Internet Architecture
 
 ### Internet Protocol
@@ -12,8 +13,7 @@ An IP address is an internet protocol address and is the numbers assigned to a s
 
 **Client-Server model** - The client-server model applis to TCP/IP because it is very comparitive to this kind of system. Telephones have  unique numbers that can compare to IP addresses and telephones also have port numbers that can be compared to specific exstensions. The client in this scenario would be the computer that is dialing the phone number, or in other words the IP address. The server would be the computer at the end of the line that is recieving the call or that IP adress from the other computer.
 
-**Why layers are important** - Layers are important to changing technology because with layers computer protocols can be much more flexibe 
-at being changed and updated. Layers allow for easy and flxible changes within a protocol, changing technolgoy will no doubt need changing protocols to go along with it. These layers are important to us because technlogy is changing all the time, we need protocols that can keep up with them. 
+**Why layers are important** - Layers are important to changing technology because with layers computer protocols can be much more flexibe at being changed and updated. Layers allow for easy and flxible changes within a protocol, changing technolgoy will no doubt need changing protocols to go along with it. These layers are important to us because technlogy is changing all the time, we need protocols that can keep up with them. 
 
 **Aplication Layer** - The type of applications that run on the application layer would be HTTP, FTP, POP3, SMTP, SNMP
 
@@ -58,6 +58,8 @@ Default Page - No File Path Provided The file path is a specific path on a page 
 parameters - result of search, the parameters are important for a websites server, and are usually at the end of a domain and can look like clear letters or words but in a lot of cases they look random with different numbers and letters.
 
 # Conclusion
+
+The truth is you need to know what your doing in life, so why shouldnt that same mentality be applied to the online world that so many people almost require to have in their life. 
 
 
 
