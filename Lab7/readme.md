@@ -10,11 +10,26 @@
 
 **Constructor** - The purpose of a constructor is to initialize data.
 
-**Class vs. an object and what it means to "instantiate an object from a class?"** - A class is a blueprint for an object, meaning the class will set any attributes for an object. The class is the thing that defines the object and the object is the thing that is set or defined by that class. What it means to Instantiate an object from a class is essentially creating an object using a class. 
+**Class vs. an object and what it means to "instantiate an object from a class?"** - A class is a blueprint for an object, meaning the class will represent an object. The class is the thing that defines the object and the object is the thing that is set or defined by that class. What it means to Instantiate an object from a class is essentially creating an object using a class. 
 
 ### Unified Modeling Language
 
 **OMG and purpose of UML** OMG is an international technology standards organization. The purpose of UML is to provide a tool to all sorts of software creators for use in analysis, design, and implementation of their software systems. 
 
+**Terms and their definitions** -
+ 
+to:, , a specific type of shark, definition of a shark, 
+
+
+
+Object: Sammy - Sammy is an object of a class in Python, the class sets the object and in the case of the reading the term "sammy" is the object.
+
+Class: shark - Shark is a defined class in Python. The class name is "shark" according to the reading.  
+
+Abstraction: swim(self) - These two are matched together because swim(self) is an entity of a real world behavior.
+
+encapsulation: definition of a shark - These are matched because a class is what binds data together. 
+
+inheritance: a specific type of shark - These are matched because a specific classes are made using existing ones such as shark.
 
 # Conclusion
