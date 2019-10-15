@@ -1,5 +1,5 @@
 # Executive Summary 
-Files come in all sizes. It is important to know how to zip, unzip or compress a file. Python is a strong programming tool and language.  
+Files come in all sizes. It is important to know how to zip, unzip and compress a file. Python is a strong programming tool and language. Using Python you are able to code many things. Python is a very creative langauge. UML is a great and powerful tool for software developers.   
 
 ### File Compression 
 
@@ -29,3 +29,4 @@ encapsulation: definition of a shark - These are matched because a class is what
 inheritance: a specific type of shark - These are matched because a specific classes are made using existing ones such as shark.
 
 # Conclusion
+Programming and coding can include many difficult things but in the end it's all worth learning because the more you know the more creative you can be with your coding. knowledge is power when it comes to coding and knowing different aspects of information technology like how to zip or unzip a file is just as important. Thanks to tools like UML the future in programming is strong and always getting stronger. 
