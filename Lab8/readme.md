@@ -12,7 +12,7 @@
 
 **How Would the Customers and Orders table be Related** - 
 
-**What would be The Foreign Key in the Orders Table** -      
+**What would be The Foreign Key in the Orders Table** -  
 
 **why it's important to define the data type of a field** - It is important to properly define the data type of a field because 
 
