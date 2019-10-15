@@ -1,4 +1,5 @@
 # Executive Summary 
+Files come in all sizes. It is important to know how to zip, unzip or compress a file. Python is a strong programming tool and language.  
 
 ### File Compression 
 
@@ -17,12 +18,7 @@
 **OMG and purpose of UML** OMG is an international technology standards organization. The purpose of UML is to provide a tool to all sorts of software creators for use in analysis, design, and implementation of their software systems. 
 
 **Terms and their definitions** -
- 
-to:, , a specific type of shark, definition of a shark, 
-
-
-
-Object: Sammy - Sammy is an object of a class in Python, the class sets the object and in the case of the reading the term "sammy" is the object.
+Object: Sammy - The term "Sammy" is an example of a set object in a class in the coding language of Python, the class sets the object and in the case of the reading the term "sammy" is the object with it's own defined principles.
 
 Class: shark - Shark is a defined class in Python. The class name is "shark" according to the reading.  
 
