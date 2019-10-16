@@ -5,6 +5,8 @@ Files come in all sizes. It is important to know how to zip, unzip and compress 
 
 **Purpose of file compression** - The purpose of file compression is to essentially make an original file smaller in memory size and this is done to save on memory space and also to make the transfer of this file from different computers easier and faster.
 
+**Compressed JPG File** If the file compressed in our class lab was a JPG file rather than a SVG file then the JPG file would of course still be smaller in memory size but also the JPG file image would have less quality.
+
 ### Object Oriented Programming
 
 **Methods and property of the Shark Class** - The methods of the Shark class is "self" and the property of the shark class is the "print" property.
