@@ -9,6 +9,8 @@
 
 **The Four V's of Data** - Volume is the  amount of data. Velocity is movement or motion of data. Variety is the different kinds of data. Veracity is credibility or reliability of data. 
 
+**The Types of Technology that have driven need for big Data** - Technology such as Facebook has driven the need for big data because with facebook a lot of data storage and procesing is required. 
+
 ### Relational Data 
 
 **Difference Between Data, Information and Knowledge** - The difference between data, informtaion and knowledge is that data is a raw piece of information with no context behind it. Information is data but with context behind it to make it meaningful. Knowledge is the use of that data and information combined to form something like an innovation or set policies. 
