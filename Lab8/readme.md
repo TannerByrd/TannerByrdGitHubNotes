@@ -7,7 +7,7 @@
 
 ### Big Data
 
-**The Four V's of Data** - 
+**The Four V's of Data** - Volume is the  amount of data. Velocity is movement or motion of data. Variety is the different kinds of data. Veracity is credibility or reliability of data. 
 
 ### Relational Data 
 
