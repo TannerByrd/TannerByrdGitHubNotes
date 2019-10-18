@@ -23,6 +23,8 @@
 
 **why it's important to define the data type of a field** - It is important to properly define the data type of a field because the data field type is what defines what kind of data can be stored there. 
 
+# Ethical and legal Implications 
 
+**Code of Ethics** - A code of ethics is created to establish the appropiate behaviors for an organization. ACM created a code for the computing discipline because the organization is computer centralized, therefore appropiate ethics regarding computers is required.  
 
 # Conclusion 
