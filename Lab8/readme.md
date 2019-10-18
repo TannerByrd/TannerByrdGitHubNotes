@@ -27,4 +27,11 @@
 
 **Code of Ethics** - A code of ethics is created to establish the appropiate behaviors for an organization. ACM created a code for the computing discipline because the organization is computer centralized, therefore appropiate ethics regarding computers is required.  
 
+**Code of Ethis and AUP** - A code of ethics is a list of appropiate behaviors for an organization and an AUP is a list of the appropiate usage of a technology service such as an open wifi network.
+
+**AUP Policy** - The Information Disclaimer policy for Virginia Tech specifies that individuals using their computers are subject to their laws and policies. It also states that Virginia Tech is not responsible for information or materials that are not their own. https://vt.edu/acceptable-use.html 
+
+### Intellectual Property
+
+**WIPO** - 
 # Conclusion 
