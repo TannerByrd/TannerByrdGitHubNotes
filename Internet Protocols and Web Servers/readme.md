@@ -19,8 +19,12 @@ An IP address is an internet protocol address and is the numbers assigned to a s
 
 # Internet security 
 
-**HTTP** - Hypertext Transfer Protocol or HTTP is the protocol that is used to view web pages on the internet. HTTP supports the client-server model because HTTP acts as the the process that retrieves data for your computer or client to recieve data from a web page, or the server.
+**Active Directory** - Active Directory is a management tool used to essentially manage directories used by devices such as computers or mobile phones across a network. The main purpose of Active Directory isnt to update software or set computer settings across networks, however it is used to set permissions to directories and folders and control network resources. 
 
+**Group Policy** Group Policy is a tool or feature used in Windows 7, 8.1 and 10 to manage operating systems, applications, user settings, desktop settings, software updates and much more across an active directory.
+
+**HTTP** - Hypertext Transfer Protocol or HTTP is the protocol that is used to view web pages on the internet. HTTP supports the client-server model because HTTP acts as the the process that retrieves data for your computer or client to recieve data from a web page, or the server.
+**Exchange** - This product or service is used to facilitate messages within an organization and scheduling of equpment and other services. It can be used to approve emails before theyre sent, create groups of users to be added to an email list, can be used in replacement of a host email on the web. Exchange is a seperate dedicated server for communications across an organization. 
 **HTTP Secure Protocols** - One of the protocols that secure HTTP uses is HTTPS which is Secure Hypertext transfer protocol. HTTPS uses a system that makes it so any data sent to a web page is scrambled into a form that is unreadable so that any hackers cannot read your data. SSL is Secure Sockets Layer. This is a protocol that uses key encryption to protect data. SSL has websites verify their authenticity by asking for a specific certificate. After verification, encrypted data can be shared between you and the web server. TLS or Tranport Layer Security is like an upgraded and more modern version of SSL and does the same thing as SSL but only more efficiently and more modernly. 
 
 # Securing Your Web Browser 
